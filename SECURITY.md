@@ -30,7 +30,8 @@ __Heuristics:__
 ### Git
 
 - All __merge commits__ must be signed with the PGP key belonging to an Authorized Contributor.
-- ?? All __merge commit signatures__ must be verified by at least one other Authorized Contributor. ??
+- ?? Each valid __merge commit PGP signing key__ must be verified by at least one other Authorized Contributor. ??
+  - eg. The Authorized Contributors must establish a minimal "PGP web of trust" among themselves.
 - __Merge commits__ may optionally be signed with [OpenTimeStamps](https://opentimestamps.org/)
 - All __tags__ must be signed by an Authorized Contributor.
 - Modifications to __the list of Authorized Contributors__ must require approving reviews by more than 50% of the set of Authorized Contributors minus the author.

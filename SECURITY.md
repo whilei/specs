@@ -86,4 +86,5 @@ __Heuristics:__
 - https://blog.github.com/2017-06-13-nested-teams-add-depth-to-your-team-structure/
 - https://help.github.com/articles/securing-your-account-with-two-factor-authentication-2fa/
 - https://medium.com/@lopp/who-controls-bitcoin-core-c55c0af91b8a
+- https://mikegerwitz.com/papers/git-horror-story
 
